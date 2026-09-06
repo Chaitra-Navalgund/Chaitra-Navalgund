@@ -8,7 +8,7 @@ user-friendly web applications.
 ## 👩‍💻 About Me
 
 - 🎓 MCA Student at Chetan Business School Hubli 
-- 💻 Interested in Front End Development
+- 💻 Front End Developer also interested in Full Stack Development  
 - ⚛️ Learning and working with React.js
 - 🐍 Working with Python and Django
 - 🗄️ Working with MySQL
